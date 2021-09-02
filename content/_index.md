@@ -2,19 +2,15 @@
 action_label: Read More &rarr;
 action_link: /about
 action_type: text
-description: Sit down, relax, and get to know Hugo Apéro. Built on top of Blogophonic,
-  we wanted to create a polished Hugo theme with the right features for a true personal
-  website. We set out to create a theme that is a pleasure to learn, and one that
-  helps others get to know you better. It is more than a blog, with flexible custom
-  layouts that help you introduce yourself online.
+description: I am an Urban Planner and Geographic Data Scientist with a PhD from Birkbeck, University of London. My background is in Architecture and Urban Planning, an area in which I hold a Master’s (2010 - 2013) and Bachelor’s (2005 - 2010) degree from the Federal University of Pelotas, Brazil. I also have a background in Computer Science, which I have studied from 2001 to 2004. 
 image_left: true
 images:
-- img/revoir.jpg
+- img/profile_body_s.jpeg
 show_action_link: true
 show_social_links: true
-subtitle: A Hugo theme you'll want to hang out with
+subtitle: Geographic Data Scientist
 text_align_left: false
-title: Hugo Apéro
+title: Marcus Saraiva
 type: home
 ---
 
