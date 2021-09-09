@@ -31,9 +31,9 @@ enableEmoji = true
   orgName = "Marcus Saraiva"
   orgLocal = ""
   description = "Geographic Data Scientist."
-  favicon = "/img/favicon.ico"
-  logo = "/img/avatar_memoji.jpg"
-  mainSections = ["blog", "project", "talk"]
+  favicon = "/img/avatar_memoji_w.ico"
+  logo = "/img/avatar_memoji_w2.png"
+  mainSections = ["blog", "research", "software"]
   navallcaps = true
   # show/hide social icons in site header & footer
   # configure social icons and links below in [[params.social]]

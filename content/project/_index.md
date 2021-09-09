@@ -9,7 +9,7 @@ cascade:
     text_link_label: View all projects
     text_link_url: /project/
 description: Research developed during my PhD and MSc studies
-layout: list-grid
+layout: list-series
 show_author_byline: true
 show_post_date: false
 show_post_thumbnail: true

@@ -13,10 +13,11 @@ if (file.exists("~/.Rprofile")) {
 options(
   # to automatically serve the site on RStudio startup, set this option to TRUE
   blogdown.serve_site.startup = FALSE,
-  # to disable knitting Rmd files on save, set this option to FALSE
-  blogdown.knit.on_save = TRUE,
+  # to disable knitting Rmd files automatically on save and serve_site
+  blogdown.knit.on_save = FALSE,
+  blogdown.knit.serve_site = FALSE,
   # build .Rmd to .html (via Pandoc); to build to Markdown, set this option to 'markdown'
-  blogdown.method = 'html'
+  blogdown.method = 'markdown'
 )
 
 # fix Hugo version

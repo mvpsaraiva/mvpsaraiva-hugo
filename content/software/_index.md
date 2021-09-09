@@ -1,27 +1,20 @@
 ---
 author: Marcus Saraiva
-cascade:
-  show_author_byline: true
-  show_comments: false
-  show_post_date: true
-  sidebar:
-    show_sidebar_adunit: true
-    text_link_label: View all projects
-    text_link_url: /project/
-description: Open-source software I'm an author or main contributor
-layout: list-grid
-show_author_byline: true
+description: "Open-source software I'm an author or main contributor."
+layout: list-sidebar
+show_author_byline: false
 show_post_date: false
 show_post_thumbnail: true
+subtitle: A collection, minus the blog.
 sidebar:
   author: Marcus Saraiva
-  description: "Projects can be anything!\nCheck out the _index.md file in the /project
-    folder \nto edit this content.\n"
-  show_sidebar_adunit: false
-  text_link_label: ""
-  text_link_url: ""
-  title: A Sidebar for Your Projects
+  description: "This is a fully featured blog that supports categories,\ntags, series,
+    and pagination. Even this sidebar offers \na ton of customizations.\n\nCheck out
+    the _index.md file in the /blog folder \nto edit this content. \n"
+  show_sidebar_adunit: true
+  text_link_label: Subscribe via RSS
+  text_link_url: /index.xml
+  title: A Sidebar for Your Thoughts
+thumbnail_left: false
 title: Software
 ---
-
-** No content for the project index. This file provides front matter for the blog including the layout and boolean options. **
